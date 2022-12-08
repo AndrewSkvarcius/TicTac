@@ -54,7 +54,7 @@ body {
 }
 .cell.x::before,
 .cell.x::after {
-    background-color: red ;
+    background-color: darkred ;
 }
 .cell.circle::before {
     background-color:black ;
@@ -130,7 +130,7 @@ background-color:  rgb(246, 169, 169);
     cursor: pointer;
 }
 .winning-message button:hover {
-    background-color:red;
+    background-color:darkred;
     color: white;
     border-color: white;
 } 
